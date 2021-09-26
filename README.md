@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://lucascarvalhop.github.io/Hotel-Preamar/
 
 Hotel Preamar é um site que fiz para simular um site de um hotel praiano.
 
@@ -26,6 +26,6 @@ A criação do layout foi feita através da visita de vários sites de hoteis on
 
 # Autor
 
-Lucas Pereira de Carvalho
+Lucas Carvalho
 
 https://www.linkedin.com/in/lucas-carvalho-2a6075218/
