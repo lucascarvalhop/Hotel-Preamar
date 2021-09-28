@@ -275,6 +275,7 @@ header #btn-mobile{
 }
 
 .acomodacoesestrutura p{
+    max-width: 360px;
     margin: 20px 0 30px 0;
     color: rgb(138, 138, 138);
 }
@@ -350,7 +351,7 @@ header #btn-mobile{
 }
 
 .localizacao-texto p{
-    margin: 5px 0 10px 0;
+    margin: 10px 0 10px 0;
     font-size: 1.8em;
     font-weight: lighter;
     color: rgb(138, 138, 138);
@@ -597,6 +598,7 @@ footer{
     }
 
     .acomodacoesestrutura p{
+        margin: 20px auto 30px auto;
         padding: 0 20px 0 20px;
     }
 
@@ -734,6 +736,10 @@ footer{
     .localizacao-texto{
         text-align: center;
         padding: 5px 10px 5px 10px;
+    }
+    footer{
+        padding: 30px;
+        font-size: 0.8rem;
     }
 }
 /*A FUNÇÃO DESSE MEDIA ABAIXO É CHECAR AS CONFIGURAÇÕES DO NAVEGADOR DO USUÁRIO PARA SE PERMITIDO
