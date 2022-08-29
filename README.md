@@ -28,4 +28,4 @@ A criação do layout foi feita através da visita de vários sites de hoteis on
 
 Lucas Carvalho
 
-https://www.linkedin.com/in/lucas-carvalho-2a6075218/
+https://www.linkedin.com/in/lucaspcarvalho/
